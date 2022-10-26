@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "client.ip",
+      "type": "java.lang.String",
+      "description": "Description for client.ip."
+  }
+] }
